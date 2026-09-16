@@ -1,7 +1,3 @@
-![][image1]
-
-## *A random image that is used to represent this article*
-
 # The Curious World of Tiny Things
 
 ## Introduction
