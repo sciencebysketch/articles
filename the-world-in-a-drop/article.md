@@ -6,13 +6,10 @@ Nikon Small World began in 1975 as a competition for photography through light m
 
 All of the entries this year were fascinating, but there was one particular clip that caught our attention. 
 
-<!-- ## *![][image1]* *This year’s first-place winner, captured by Dr. Ning Xu, features the abnormal beating of airway cilia from a child with Primary Ciliary Dyskinesia (PCD), a genetic disorder affecting respiratory function.* -->
-
 ## The Smallest Aquarium
 
 Pleyer’s submission, \*Jellyfish Larvae Suspended in Water Droplets\*, placed third in the 2026 Nikon Small World in Motion competition. A microscopist and scientific imaging enthusiast, Pleyer captured the footage using darkfield microscopy at 25× magnification, revealing tiny jellyfish larvae suspended in individual drops of water.
 
-<!-- ## *![][image2]Third-place winner Benedikt Pleyer’s “Jellyfish Larvae Suspended in Water Droplets” captures tiny jellyfish larvae swimming inside suspended droplets of water.* -->
 
 But capturing the footage was not an easy task. Pleyer spent months experimenting with his setup, suspending individual drops of water from a thread above a Petri dish. Then, he carefully introduced the larvae into the droplets, turning each one into a miniature aquarium.
 
