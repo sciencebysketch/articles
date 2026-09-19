@@ -1,0 +1,51 @@
+# TITLE: This is the title of your article. It must be less than 30 characters.
+title: "The World in a Drop"
+# SLUG: The slug of the article is generated off of the title. It should be all lowercase, and "-" instead of whitespace.
+slug: "the-world-in-a-drop"
+
+# AUTHOR: Please write the author name, as they appear in the members page
+author:
+  name: "Arjun Yuvaraj"
+
+# PUBLISHED: When the article is published to the site
+published: "2026-09-19"
+# UPDATED: When the article was last updated
+published: "2026-09-19"
+
+# CATEGORY: It can either be...
+#   - "Biology"
+#   - "Chemistry"
+#   - "Physics"
+#   - "Computer Science & Engineering"
+#   - "Mathematics & Statistics"
+#   - "Environmental Science"
+#   - "Astronomy"
+category: "Biology"
+# TYPE: It can either be...
+#   - "Informative"
+#   - "Current Events"
+#   - "Explainer"
+#   - "Experiment"
+#   - "History"
+#   - "Opinion"
+# Application
+type: "Current Events"
+
+# TAGS: At most five
+tags:
+  - "microscopy"
+  - "jellyfish"
+  - "competition"
+
+# DESCRIPTION: Super short summary and at most 1 sentence
+description: "A look inside Nikon's Small World in Motion competition and the tiny jellyfish larvae captured by third-place winner Benedikt Pleyer."
+
+# STATUS: It can either be...
+#   - "Brainstorming"
+#   - "Drafting"
+#   - "Reviewing"
+#   - "Finalizing"
+#   - "Editing"
+#   - "Coverting"
+#   - "Published"
+status: "published"
