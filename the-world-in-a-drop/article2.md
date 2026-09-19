@@ -8,7 +8,7 @@ All of the entries this year were fascinating, but there was one particular clip
 
 ## The Smallest Aquarium
 
-Pleyer’s submission, \*Jellyfish Larvae Suspended in Water Droplets\*, placed third in the 2026 Nikon Small World in Motion competition. A microscopist and scientific imaging enthusiast, Pleyer captured the footage using darkfield microscopy at 25× magnification, revealing tiny jellyfish larvae suspended in individual drops of water.
+Pleyer’s submission, **Jellyfish Larvae Suspended in Water Droplets**, placed third in the 2026 Nikon Small World in Motion competition. A microscopist and scientific imaging enthusiast, Pleyer captured the footage using darkfield microscopy at 25× magnification, revealing tiny jellyfish larvae suspended in individual drops of water.
 
 ## _![][cilla.gif]Third-place winner Benedikt Pleyer’s “Jellyfish Larvae Suspended in Water Droplets” captures tiny jellyfish larvae swimming inside suspended droplets of water._
 
