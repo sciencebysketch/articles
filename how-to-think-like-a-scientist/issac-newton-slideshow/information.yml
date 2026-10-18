@@ -1,0 +1,31 @@
+title: "Issac Newton Graphic"
+slug: "issac-newton-graphic"
+contentType: "slideshow"
+author:
+  name: "Omar Shaik"
+
+published: "2026-10-18"
+updated: "2026-10-18"
+
+category: "General"
+type: "Explainer"
+
+tags:
+  - "newton"
+  - "apple"
+
+description: "A short cartoon explanation of how to think like a scientist, featuring Issac Newton!"
+
+slides:
+  - "1.png"
+  - "2.png"
+  - "3.png"
+  - "4.png"
+  - "5.png"
+  - "6.png"
+  - "7.png"
+  - "8.png"
+  - "9.png"
+  - "10.png"
+
+status: "published"
