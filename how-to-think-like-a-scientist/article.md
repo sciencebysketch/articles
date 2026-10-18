@@ -42,7 +42,7 @@ Here’s the part we’ve all been waiting for. *How do I actually make myself t
 
 Because this is Science by Sketch, here’s a graphic to introduce this point.
 
-\<ISSAC NEWTON GRAPHIC\>
+::slideshow[issac-newton-slideshow]
 
 Hope you enjoyed that (especially the last slide).
 
