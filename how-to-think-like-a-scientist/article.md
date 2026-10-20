@@ -32,7 +32,7 @@ The Scientific Method is a process to prove or disprove a specific belief.
 
 7. **Communicate** \- Spread the message (even with us)\! You can post this online to forums and even journal websites that expose your work to other scientists. A discovery won’t be recognized if the scientist(s) didn’t tell anybody\!
 
-**One important note:** Neither you nor actual scientists have to follow this process exactly*.* These are guidelines to create a proposed explanation for your observation through unbiased, measurable tests. If you ran a fair experiment, one with a clear hypothesis and a well-made analysis, then you’re probably already following the Scientific Method\!
+**One important note:** Neither you nor actual scientists have to follow this process **exactly**. These are guidelines to create a proposed explanation for your observation through unbiased, measurable tests. If you ran a fair experiment, one with a clear hypothesis and a well-made analysis, then you’re probably already following the Scientific Method\!
 
 ## Thinking like a scientist every day
 
