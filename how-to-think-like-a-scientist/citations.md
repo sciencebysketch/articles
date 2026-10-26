@@ -8,7 +8,7 @@ O’Callaghan, Angela, and M. Ryan. “The Scientific Method.” Extension | Uni
 
 “Newton’s Law of Universal Gravitation.” Soul Food, 3 July 2024, [https\://nickwattssoulfood.com/2024/07/03/newtons-law-of-universal-gravitation/](https://nickwattssoulfood.com/2024/07/03/newtons-law-of-universal-gravitation/). Accessed 24 Sept. 2026\.
 
-“Portrait of Isaac Newton (1643–1727).” Wikimedia Commons, 2021, [https\://commons.wikimedia.org/wiki/File:Sir\_Isaac\_Newton\_(1643-1727).jpg](https://commons.wikimedia.org/wiki/File:Sir_Isaac_Newton_\(1643-1727\).jpg). Accessed 24 Sept. 2026\.
+“Portrait of Isaac Newton (1643–1727).” Wikimedia Commons, 2021, [https\://commons.wikimedia.org/wiki/File:Sir_Isaac_Newton\_(1643-1727).jpg](<https://commons.wikimedia.org/wiki/File:Sir_Isaac_Newton_(1643-1727).jpg>). Accessed 24 Sept. 2026\.
 
 arifabi31. “Emoji Angry GIFs.” Tenor, 13 July 2025, [https\://tenor.com/search/emoji-angry-gifs](https://tenor.com/search/emoji-angry-gifs). Accessed 24 Sept. 2026\.
 
