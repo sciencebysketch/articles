@@ -1,0 +1,35 @@
+title: "Seasons Slideshow"
+slug: "seasons-slideshow"
+contentType: "slideshow"
+author:
+  name: "Miyake Maia"
+
+published: "2026-11-16"
+updated: "2026-11-16"
+
+category: "Astronomy"
+type: "Explainer"
+
+tags:
+  - "sun"
+  - "earth"
+  - "moon"
+  - "day"
+  - "night"
+  - "seasons"
+
+description: "A short cartoon explanation of how seasons, days, and nights work!"
+
+slides:
+  - "1.png"
+  - "2.png"
+  - "3.png"
+  - "4.png"
+  - "5.png"
+  - "6.png"
+  - "7.png"
+  - "8.png"
+  - "9.png"
+  - "10.png"
+
+status: "published"
