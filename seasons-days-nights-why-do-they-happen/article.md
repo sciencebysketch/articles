@@ -1,5 +1,3 @@
-# Seasons, Days, and Nights: Why Do They Happen?
-
 ## What is a Revolution?
 
 ![][image1]  
